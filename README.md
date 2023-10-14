@@ -14,8 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiameng-shi-b25863246/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sto_mocha/)
+<div id="header" align="center">
+  <img alt="" src="https://media4.giphy.com/media/pO4UHglOY2vII/giphy.gif?cid=ecf05e47xys6oqq8nlz33el6scg6drzyck9hllzcich91wps&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jiameng-shi-b25863246/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="mailto:carmenshi756@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Google Badge"/>
+  <a href="https://www.instagram.com/sto_mocha/">
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    
+</div>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
@@ -35,11 +47,6 @@ Welcome to my GitHub! 🚀 I'm a Master of IT, specializing in AI, from the Univ
 - Developed an AI-based NAO robot system integrating GPT-3.5 to assist children with handwriting difficulties.
 - Spearheaded tweet authenticity detection related to COVID-19, achieving an 86% accuracy using SVM and BERT models.
 - Optimized game engine processes at Tencent Timi, and developed a protobuf compilation tool using Python.
-
----
-
-### 🔗 Let's Connect
-📧: carmenshi756@gmail.com
 
 ---
 
