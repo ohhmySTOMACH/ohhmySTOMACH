@@ -26,8 +26,9 @@ Welcome to my GitHub! 🚀 I'm a Master of IT, specializing in AI, from the Univ
 - Game Development 🕹️: Optimizing and engineering robust game engines and interactive experiences.
 - Software Development 💻: Developing scalable and robust software solutions with an agile approach.
 
-
 <img align="right" height="250" width="375" alt="" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" />
+
+---
 
 ### 🔎 Project Highlights
 
@@ -35,11 +36,17 @@ Welcome to my GitHub! 🚀 I'm a Master of IT, specializing in AI, from the Univ
 - Spearheaded tweet authenticity detection related to COVID-19, achieving an 86% accuracy using SVM and BERT models.
 - Optimized game engine processes at Tencent Timi, and developed a protobuf compilation tool using Python.
 
+---
+
 ### 🔗 Let's Connect
 📧: carmenshi756@gmail.com
 
+---
+
 ### 📘 About Me
 Dedicated to continuous learning and staying updated with cutting-edge technologies, I have actively involved myself in numerous agile development projects and internships in the I.T. industry. My journey through machine learning, game development, and software engineering has always been driven by a keen passion for innovation and problem-solving. Always up for collaborations and excited to explore new opportunities and challenges!
+
+---
 
 ### Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -56,9 +63,7 @@ Dedicated to continuous learning and staying updated with cutting-edge technolog
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 
-
-
-
+---
 
 ### Stats:
 <summary><b>⚡ Github Stats</b></summary>
