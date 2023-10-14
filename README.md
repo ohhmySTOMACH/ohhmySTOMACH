@@ -38,8 +38,6 @@ Welcome to my GitHub! 🚀 I'm a Master of IT, specializing in AI, from the Univ
 - Game Development 🕹️: Optimizing and engineering robust game engines and interactive experiences.
 - Software Development 💻: Developing scalable and robust software solutions with an agile approach.
 
-<img align="right" height="250" width="375" alt="" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" />
-
 ---
 
 ### 🔎 Project Highlights
@@ -78,6 +76,8 @@ Dedicated to continuous learning and staying updated with cutting-edge technolog
 <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohhmySTOMACH&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhmySTOMACH&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img align="right" height="200" width="300" alt="" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" />
+
 
 
 
