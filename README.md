@@ -27,7 +27,7 @@ Welcome to my GitHub! 🚀 I'm a Master of IT, specializing in AI, from the Univ
 - Software Development 💻: Developing scalable and robust software solutions with an agile approach.
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" />
 
 ### 🔎 Project Highlights
 
