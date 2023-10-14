@@ -42,7 +42,7 @@ Welcome to my GitHub! 🚀 I'm a Master of IT, specializing in AI, from the Univ
 
 ### 🔎 Project Highlights
 
-- Developed an AI-based NAO robot system integrating GPT-3.5 to assist children with handwriting difficulties.
+- Developed an AI-based NAO robot system integrating GPT-3.5 to assist children with handwriting difficulties. (Check our demo <a href="https://www.youtube.com/watch?v=3Rcz7c_GUS4" target="_blank">here</a>)
 - Spearheaded tweet authenticity detection related to COVID-19, achieving an 86% accuracy using SVM and BERT models.
 - Optimized game engine processes at Tencent Timi, and developed a protobuf compilation tool using Python.
 
