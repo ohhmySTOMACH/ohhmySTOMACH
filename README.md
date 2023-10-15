@@ -76,14 +76,11 @@ Dedicated to continuous learning and staying updated with cutting-edge technolog
 <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohhmySTOMACH&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhmySTOMACH&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img align="right" height="200" width="300" alt="" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" />
-
-
-
 
 <summary><b>☄️ Github Streaks</b></summary>
 
 <br />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ohhmySTOMACH&hide_border=true" />
+<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ohhmySTOMACH&hide_border=true" />
+<img align="right" height="200" width="300" alt="" src="https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" />
 
 
